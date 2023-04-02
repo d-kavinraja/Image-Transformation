@@ -7,19 +7,19 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the necessary libraries and read the original image and save it as a image variable.
 
 ### Step2:
-<br>
+
 
 ### Step3:
-<br>
+
 
 ### Step4:
-<br>
+
 
 ### Step5:
-<br>
+
 
 ## Program:
 ```python
