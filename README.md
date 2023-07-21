@@ -31,7 +31,6 @@ Display all the Transformed images.
 ## Program:
 ```python
 ## Developed By: Kavinraja D
-## Register Number: 212222240047
 i)Image Translation
 import numpy as np
 import cv2
